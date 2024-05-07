@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LAOURIE/PHASE2.git/static/css/main.47ff9fea.css",
+    "main.js": "/LAOURIE/PHASE2.git/static/js/main.8f748810.js",
+    "static/js/453.ad6eb26e.chunk.js": "/LAOURIE/PHASE2.git/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/LAOURIE/PHASE2.git/index.html",
+    "main.47ff9fea.css.map": "/LAOURIE/PHASE2.git/static/css/main.47ff9fea.css.map",
+    "main.8f748810.js.map": "/LAOURIE/PHASE2.git/static/js/main.8f748810.js.map",
+    "453.ad6eb26e.chunk.js.map": "/LAOURIE/PHASE2.git/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47ff9fea.css",
+    "static/js/main.8f748810.js"
+  ]
+}
